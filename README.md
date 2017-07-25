@@ -3,7 +3,7 @@ Ubuntu XAMPP
 ## Descripción
 
 <p align="center">
-	<img src="" width="682" height="368">
+	<img src="https://github.com/ginppian/Docker-Ubuntu-XAMPP/blob/master/imgs/img1.png" width="682" height="368">
 </p>
 
 ## Fuente
